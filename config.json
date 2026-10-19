@@ -1,0 +1,11 @@
+{
+  "panelType": "xboard",
+  "panels": {
+    "mihomo": [
+      {
+        "url": "https://www.wafvpn.com",
+        "description": "主面板"
+      }
+    ]
+  }
+}
